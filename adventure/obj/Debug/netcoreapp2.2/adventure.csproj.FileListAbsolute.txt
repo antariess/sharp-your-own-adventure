@@ -1,0 +1,11 @@
+/Users/antariess/Code/CSH-adventure/adventure/bin/Debug/netcoreapp2.2/adventure.deps.json
+/Users/antariess/Code/CSH-adventure/adventure/bin/Debug/netcoreapp2.2/adventure.runtimeconfig.json
+/Users/antariess/Code/CSH-adventure/adventure/bin/Debug/netcoreapp2.2/adventure.runtimeconfig.dev.json
+/Users/antariess/Code/CSH-adventure/adventure/bin/Debug/netcoreapp2.2/adventure.dll
+/Users/antariess/Code/CSH-adventure/adventure/bin/Debug/netcoreapp2.2/adventure.pdb
+/Users/antariess/Code/CSH-adventure/adventure/obj/Debug/netcoreapp2.2/adventure.csprojAssemblyReference.cache
+/Users/antariess/Code/CSH-adventure/adventure/obj/Debug/netcoreapp2.2/adventure.csproj.CoreCompileInputs.cache
+/Users/antariess/Code/CSH-adventure/adventure/obj/Debug/netcoreapp2.2/adventure.AssemblyInfoInputs.cache
+/Users/antariess/Code/CSH-adventure/adventure/obj/Debug/netcoreapp2.2/adventure.AssemblyInfo.cs
+/Users/antariess/Code/CSH-adventure/adventure/obj/Debug/netcoreapp2.2/adventure.dll
+/Users/antariess/Code/CSH-adventure/adventure/obj/Debug/netcoreapp2.2/adventure.pdb
